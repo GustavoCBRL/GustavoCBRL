@@ -31,7 +31,7 @@ I turn manual, fragmented business processes into web systems that are easier to
 ## Academic background
 
 - **Technologist Degree in Systems Analysis and Development**.
-- **CS50's Web Programming with Python and JavaScript** — Harvard University *(in progress)*.
+- **CS50's Web Programming with Python and JavaScript** — Harvard University.
 - **Introduction to Cybersecurity** — Cisco Networking Academy.
 - **English:** C1 Advanced.
 
