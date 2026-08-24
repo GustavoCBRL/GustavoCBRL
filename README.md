@@ -28,6 +28,13 @@ I turn manual, fragmented business processes into web systems that are easier to
 
 `Python` · `Django` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `Oracle` · `SQLite` · `REST APIs` · `Git` · `Linux`
 
+## Academic background
+
+- **Technologist Degree in Systems Analysis and Development**.
+- **CS50's Web Programming with Python and JavaScript** — Harvard University *(in progress)*.
+- **Introduction to Cybersecurity** — Cisco Networking Academy.
+- **English:** C1 Advanced.
+
 ## Currently learning
 
 - C# and .NET for enterprise applications.
